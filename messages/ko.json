@@ -120,5 +120,23 @@
     "copyright": "© {year} CPEE. All rights reserved.",
     "org_name": "Center for Practical Entrepreneurship Education",
     "nonprofit": "비영리 교육 공동체"
+  },
+  "faq": {
+    "academy_name": "선한 영향력 아카데미",
+    "academy_description": "창업가가 바른 방식으로 사업을 시작하고, 현실적인 속도로 안전 궤도에 진입하도록 돕는 실천 중심 프로그램입니다.",
+    "items": {
+      "0": {
+        "question": "CPEE는 무엇인가요?",
+        "answer": "CPEE(Center for Practical Entrepreneurship Education)는 창업과 경영을 이론이나 성공 사례가 아니라, 선택과 책임의 과정으로 배우는 비영리 교육 공동체입니다. 더 많은 창업가가 아니라 더 책임 있는 창업가를 만드는 것을 목표로 합니다."
+      },
+      "1": {
+        "question": "선한 영향력 아카데미는 어떤 프로그램인가요?",
+        "answer": "선한 영향력 아카데미는 창업가가 바른 방식으로 사업을 시작하고, 현실적인 속도로 안전 궤도에 진입하도록 돕는 실천 중심 프로그램입니다. 화려한 성공담보다 실제 현장의 고민, 갈등, 판단의 이유를 나누며 각자의 환경에서 책임질 수 있는 해답을 함께 찾습니다."
+      },
+      "2": {
+        "question": "어떻게 참여할 수 있나요?",
+        "answer": "CPEE 프로그램에 관심이 있으시다면 이메일(contact@cpee.org)로 문의해 주세요. 토론 콘텐츠 참여, 비즈니스 멘토링, 선한 영향력 아카데미 등 다양한 방식으로 함께할 수 있습니다."
+      }
+    }
   }
 }

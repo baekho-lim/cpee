@@ -27,14 +27,15 @@ export function ContactSection() {
 
           <div className="mt-12">
             <Button
-              href={`mailto:${t("email")}`}
+              href="https://www.facebook.com/groups/252991477087456"
               variant="primary"
               className="text-lg px-10 py-4"
+              target="_blank"
+              rel="noopener noreferrer"
             >
               <Mail className="mr-3 h-5 w-5" />
               {t("email_label")}
             </Button>
-            <p className="mt-4 text-sm text-text-tertiary">{t("email")}</p>
           </div>
         </motion.div>
       </div>

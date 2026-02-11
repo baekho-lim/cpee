@@ -63,9 +63,11 @@ export function HeroSection() {
             {t("cta_programs")}
           </Button>
           <Button
-            href="mailto:contact@cpee.org"
+            href="https://www.facebook.com/groups/252991477087456"
             variant="outline"
             className="border-white/30 text-white hover:bg-white hover:text-primary"
+            target="_blank"
+            rel="noopener noreferrer"
           >
             {t("cta_contact")}
           </Button>

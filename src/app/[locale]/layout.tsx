@@ -52,10 +52,12 @@ export async function generateMetadata({
       description,
     },
     alternates: {
+      canonical: `/${locale}`,
       languages: {
         ko: "/ko",
         en: "/en",
         vi: "/vi",
+        "x-default": "/ko",
       },
     },
   };
