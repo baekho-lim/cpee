@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "title": "CPEE - Center for Practical Entrepreneurship Education",
+    "description": "A nonprofit educational community that teaches entrepreneurship and management as a process of choice and responsibility."
+  },
+  "nav": {
+    "about": "About",
+    "programs": "Programs",
+    "academy": "Academy",
+    "impact": "Impact",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "Nonprofit Educational Community",
+    "title": "Not more entrepreneurs,\nbut more responsible ones",
+    "subtitle": "CPEE is a nonprofit educational community that teaches entrepreneurship and management not through theory or success stories, but as a process of choice and responsibility.",
+    "cta_programs": "Our Programs",
+    "cta_contact": "Contact Us"
+  },
+  "about": {
+    "title": "About CPEE",
+    "subtitle": "Center for Practical Entrepreneurship Education",
+    "question": "\"Is now the right time to start a business?\"\n\"Can I take responsibility for this choice to the end?\"",
+    "description_1": "Many entrepreneurship programs have focused on explaining successful outcomes or presenting strategies that appear to be the right answers. But in reality, entrepreneurs must always make decisions with incomplete information, limited resources, and conflicting values.",
+    "description_2": "CPEE focuses on exactly that point. The ability to explain why you made a choice, rather than what is right. Standards that can last, rather than rapid growth. Structures where trust and responsibility accumulate, rather than short-term results.",
+    "description_3": "CPEE is not a lecture-centered institution but a learning community that shares experiences and reflects. It is a space where mentors and participants jointly review decisions made from their respective positions and design the next choice in a better direction.",
+    "values": {
+      "trust": {
+        "title": "Trust",
+        "description": "We aim for companies and leaders that are trusted for a long time, rather than quick results"
+      },
+      "responsibility": {
+        "title": "Responsibility",
+        "description": "We help reduce irresponsible ventures and establish responsible entrepreneurship"
+      },
+      "community": {
+        "title": "Community",
+        "description": "We create communities where concerns, conflicts, and even the possibility of failure can be examined together"
+      }
+    }
+  },
+  "programs": {
+    "title": "What We Do",
+    "subtitle": "We contribute to the entrepreneurship ecosystem in four ways",
+    "items": {
+      "content": {
+        "title": "Discussion Content Development",
+        "description": "We develop content that challenges thinking and generates questions, not content that presents answers. We accumulate and share discussion materials centered on dilemmas, failures, and crossroads in actual business and startup settings."
+      },
+      "mentoring": {
+        "title": "Business Mentoring",
+        "description": "We provide realistic mentoring based on experience, not theory-centered advice. From early-stage founders to growth-stage entrepreneurs, we help organize concerns appropriate to each stage and support decision-making logic."
+      },
+      "bridge": {
+        "title": "Bridging Founders & Operators",
+        "description": "We connect the gap between ideas and execution, between early-stage passion and the reality of business operations. We serve as a bridge helping 'starters' and 'operators' understand each other's language."
+      },
+      "alliance": {
+        "title": "Alliance Network",
+        "description": "We don't limit ourselves to standalone activities. We collaborate with organizations, groups, and communities that share similar values and directions. We aim to be a platform that loosely but continuously connects education, mentoring, and networks."
+      }
+    }
+  },
+  "academy": {
+    "title": "Good Influence Academy",
+    "subtitle": "Practice-Centered Program",
+    "description": "The Good Influence Academy is a practice-centered program that helps entrepreneurs start their businesses the right way and reach a safe orbit at a realistic pace.",
+    "features": {
+      "practice": {
+        "title": "Practice-Centered",
+        "description": "We share real concerns, conflicts, and reasoning from the field, rather than glamorous success stories"
+      },
+      "answer": {
+        "title": "Your Own Answers",
+        "description": "Rather than presenting correct answers, we find 'solutions' together that each person can take responsibility for in their own context"
+      },
+      "orbit": {
+        "title": "Safe Orbit Entry",
+        "description": "Rather than encouraging excessive expansion or forced growth, we help companies enter a stable orbit"
+      },
+      "together": {
+        "title": "Journey Together",
+        "description": "We prevent entrepreneurs from collapsing under the weight of making and bearing decisions alone"
+      }
+    }
+  },
+  "impact": {
+    "title": "Impact We've Made Together",
+    "subtitle": "Stories of people who joined CPEE",
+    "stats": {
+      "mentees": {
+        "value": "150",
+        "suffix": "+",
+        "label": "Mentoring Participants"
+      },
+      "programs": {
+        "value": "30",
+        "suffix": "+",
+        "label": "Programs Delivered"
+      },
+      "partners": {
+        "value": "20",
+        "suffix": "+",
+        "label": "Partner Organizations"
+      },
+      "years": {
+        "value": "5",
+        "suffix": "yrs",
+        "label": "Years of Experience"
+      }
+    }
+  },
+  "contact": {
+    "title": "Let's Think Together",
+    "subtitle": "Whether you're preparing to start a business or looking for a companion on a journey already begun, feel free to reach out anytime.",
+    "email_label": "Send us an email",
+    "email": "contact@cpee.org"
+  },
+  "footer": {
+    "copyright": "© {year} CPEE. All rights reserved.",
+    "org_name": "Center for Practical Entrepreneurship Education",
+    "nonprofit": "Nonprofit Educational Community"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "title": "CPEE - Trung tâm Giáo dục Khởi nghiệp Thực tiễn",
+    "description": "Một cộng đồng giáo dục phi lợi nhuận dạy khởi nghiệp và quản lý như một quá trình lựa chọn và trách nhiệm."
+  },
+  "nav": {
+    "about": "Giới thiệu",
+    "programs": "Chương trình",
+    "academy": "Học viện",
+    "impact": "Tác động",
+    "contact": "Liên hệ"
+  },
+  "hero": {
+    "badge": "Cộng đồng Giáo dục Phi lợi nhuận",
+    "title": "Không phải nhiều doanh nhân hơn,\nmà là doanh nhân có trách nhiệm hơn",
+    "subtitle": "CPEE là cộng đồng giáo dục phi lợi nhuận dạy khởi nghiệp và quản lý không qua lý thuyết hay câu chuyện thành công, mà như một quá trình lựa chọn và trách nhiệm.",
+    "cta_programs": "Xem Chương trình",
+    "cta_contact": "Liên hệ"
+  },
+  "about": {
+    "title": "Về CPEE",
+    "subtitle": "Center for Practical Entrepreneurship Education",
+    "question": "\"Bây giờ có phải là thời điểm thích hợp để khởi nghiệp không?\"\n\"Tôi có thể chịu trách nhiệm cho lựa chọn này đến cùng không?\"",
+    "description_1": "Nhiều chương trình khởi nghiệp tập trung vào việc giải thích các kết quả thành công hoặc trình bày các chiến lược có vẻ là đáp án đúng. Nhưng trên thực tế, doanh nhân luôn phải đưa ra quyết định với thông tin không đầy đủ, nguồn lực hạn chế và các giá trị mâu thuẫn.",
+    "description_2": "CPEE tập trung chính xác vào điểm đó. Khả năng giải thích tại sao bạn đưa ra lựa chọn, thay vì điều gì đúng. Tiêu chuẩn có thể tồn tại lâu dài, thay vì tăng trưởng nhanh. Cấu trúc nơi niềm tin và trách nhiệm được tích lũy, thay vì kết quả ngắn hạn.",
+    "description_3": "CPEE không phải là tổ chức giáo dục tập trung vào bài giảng mà là cộng đồng học tập chia sẻ kinh nghiệm và suy ngẫm. Đó là không gian nơi người hướng dẫn và người tham gia cùng xem xét các quyết định và thiết kế lựa chọn tiếp theo theo hướng tốt hơn.",
+    "values": {
+      "trust": {
+        "title": "Niềm tin",
+        "description": "Chúng tôi hướng đến các doanh nghiệp và lãnh đạo được tin cậy lâu dài, thay vì kết quả nhanh chóng"
+      },
+      "responsibility": {
+        "title": "Trách nhiệm",
+        "description": "Chúng tôi giúp giảm thiểu khởi nghiệp thiếu trách nhiệm và xây dựng tinh thần khởi nghiệp có trách nhiệm"
+      },
+      "community": {
+        "title": "Cộng đồng",
+        "description": "Chúng tôi tạo ra cộng đồng nơi mọi lo ngại, xung đột và cả khả năng thất bại đều có thể được xem xét cùng nhau"
+      }
+    }
+  },
+  "programs": {
+    "title": "Chúng tôi làm gì",
+    "subtitle": "Chúng tôi đóng góp cho hệ sinh thái khởi nghiệp theo bốn cách",
+    "items": {
+      "content": {
+        "title": "Phát triển Nội dung Thảo luận",
+        "description": "Chúng tôi phát triển nội dung thách thức tư duy và tạo ra câu hỏi, không phải nội dung đưa ra đáp án. Chúng tôi tích lũy và chia sẻ tài liệu thảo luận tập trung vào các tình huống khó xử, thất bại và ngã rẽ trong kinh doanh thực tế."
+      },
+      "mentoring": {
+        "title": "Hướng dẫn Kinh doanh",
+        "description": "Chúng tôi cung cấp hướng dẫn thực tế dựa trên kinh nghiệm, không phải lời khuyên lý thuyết. Từ người sáng lập giai đoạn đầu đến doanh nhân giai đoạn tăng trưởng, chúng tôi giúp tổ chức các mối quan tâm phù hợp với từng giai đoạn."
+      },
+      "bridge": {
+        "title": "Kết nối Người sáng lập & Người vận hành",
+        "description": "Chúng tôi kết nối khoảng cách giữa ý tưởng và thực hiện, giữa đam mê giai đoạn đầu và thực tế vận hành doanh nghiệp. Chúng tôi là cầu nối giúp 'người bắt đầu' và 'người vận hành' hiểu ngôn ngữ của nhau."
+      },
+      "alliance": {
+        "title": "Mạng lưới Liên minh",
+        "description": "Chúng tôi không giới hạn bản thân trong các hoạt động độc lập. Chúng tôi hợp tác với các tổ chức và cộng đồng chia sẻ giá trị và định hướng tương tự. Chúng tôi hướng đến vai trò nền tảng kết nối giáo dục, hướng dẫn và mạng lưới một cách linh hoạt nhưng liên tục."
+      }
+    }
+  },
+  "academy": {
+    "title": "Học viện Ảnh hưởng Tốt đẹp",
+    "subtitle": "Chương trình Tập trung Thực hành",
+    "description": "Học viện Ảnh hưởng Tốt đẹp là chương trình tập trung thực hành giúp doanh nhân bắt đầu kinh doanh đúng cách và đạt quỹ đạo an toàn với tốc độ thực tế.",
+    "features": {
+      "practice": {
+        "title": "Tập trung Thực hành",
+        "description": "Chúng tôi chia sẻ những lo ngại, xung đột và lý do thực tế từ thực địa, thay vì những câu chuyện thành công hào nhoáng"
+      },
+      "answer": {
+        "title": "Đáp án của Riêng bạn",
+        "description": "Thay vì đưa ra đáp án đúng, chúng tôi cùng tìm 'giải pháp' mà mỗi người có thể chịu trách nhiệm trong bối cảnh riêng của mình"
+      },
+      "orbit": {
+        "title": "Vào Quỹ đạo An toàn",
+        "description": "Thay vì khuyến khích mở rộng quá mức hoặc tăng trưởng gượng ép, chúng tôi giúp doanh nghiệp đi vào quỹ đạo ổn định"
+      },
+      "together": {
+        "title": "Hành trình Cùng nhau",
+        "description": "Chúng tôi ngăn doanh nhân sụp đổ dưới gánh nặng của việc tự đưa ra và gánh chịu quyết định một mình"
+      }
+    }
+  },
+  "impact": {
+    "title": "Tác động Chúng tôi Đã Tạo ra",
+    "subtitle": "Câu chuyện của những người đã đồng hành cùng CPEE",
+    "stats": {
+      "mentees": {
+        "value": "150",
+        "suffix": "+",
+        "label": "Người tham gia Hướng dẫn"
+      },
+      "programs": {
+        "value": "30",
+        "suffix": "+",
+        "label": "Chương trình Đã thực hiện"
+      },
+      "partners": {
+        "value": "20",
+        "suffix": "+",
+        "label": "Tổ chức Đối tác"
+      },
+      "years": {
+        "value": "5",
+        "suffix": " năm",
+        "label": "Kinh nghiệm Giáo dục"
+      }
+    }
+  },
+  "contact": {
+    "title": "Hãy cùng Suy nghĩ",
+    "subtitle": "Dù bạn đang chuẩn bị khởi nghiệp hay đang tìm người đồng hành trong hành trình đã bắt đầu, hãy liên hệ với chúng tôi bất cứ lúc nào.",
+    "email_label": "Gửi email cho chúng tôi",
+    "email": "contact@cpee.org"
+  },
+  "footer": {
+    "copyright": "© {year} CPEE. All rights reserved.",
+    "org_name": "Center for Practical Entrepreneurship Education",
+    "nonprofit": "Cộng đồng Giáo dục Phi lợi nhuận"
+  }
+}
