@@ -32,9 +32,25 @@ export async function generateMetadata({
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "metadata" });
 
+  const title = t("title");
+  const description = t("description");
+
   return {
-    title: t("title"),
-    description: t("description"),
+    metadataBase: new URL("https://cpee.vercel.app"),
+    title,
+    description,
+    openGraph: {
+      title,
+      description,
+      siteName: "CPEE",
+      locale: locale === "ko" ? "ko_KR" : locale === "vi" ? "vi_VN" : "en_US",
+      type: "website",
+    },
+    twitter: {
+      card: "summary_large_image",
+      title,
+      description,
+    },
     alternates: {
       languages: {
         ko: "/ko",
