@@ -120,5 +120,23 @@
     "copyright": "© {year} CPEE. All rights reserved.",
     "org_name": "Center for Practical Entrepreneurship Education",
     "nonprofit": "Nonprofit Educational Community"
+  },
+  "faq": {
+    "academy_name": "Good Influence Academy",
+    "academy_description": "A practice-centered program that helps entrepreneurs start their businesses the right way and reach a safe orbit at a realistic pace.",
+    "items": {
+      "0": {
+        "question": "What is CPEE?",
+        "answer": "CPEE (Center for Practical Entrepreneurship Education) is a nonprofit educational community that teaches entrepreneurship and management not through theory or success stories, but as a process of choice and responsibility. Our goal is not to create more entrepreneurs, but more responsible ones."
+      },
+      "1": {
+        "question": "What is the Good Influence Academy?",
+        "answer": "The Good Influence Academy is a practice-centered program that helps entrepreneurs start their businesses the right way and reach a safe orbit at a realistic pace. We share real concerns, conflicts, and reasoning from the field rather than glamorous success stories, and find solutions together that each person can take responsibility for."
+      },
+      "2": {
+        "question": "How can I participate?",
+        "answer": "If you're interested in CPEE programs, please contact us at contact@cpee.org. You can participate through discussion content, business mentoring, the Good Influence Academy, and more."
+      }
+    }
   }
 }

@@ -120,5 +120,23 @@
     "copyright": "© {year} CPEE. All rights reserved.",
     "org_name": "Center for Practical Entrepreneurship Education",
     "nonprofit": "Cộng đồng Giáo dục Phi lợi nhuận"
+  },
+  "faq": {
+    "academy_name": "Học viện Ảnh hưởng Tốt đẹp",
+    "academy_description": "Chương trình tập trung thực hành giúp doanh nhân bắt đầu kinh doanh đúng cách và đạt quỹ đạo an toàn với tốc độ thực tế.",
+    "items": {
+      "0": {
+        "question": "CPEE là gì?",
+        "answer": "CPEE (Center for Practical Entrepreneurship Education) là cộng đồng giáo dục phi lợi nhuận dạy khởi nghiệp và quản lý không qua lý thuyết hay câu chuyện thành công, mà như một quá trình lựa chọn và trách nhiệm. Mục tiêu của chúng tôi không phải tạo ra nhiều doanh nhân hơn, mà là doanh nhân có trách nhiệm hơn."
+      },
+      "1": {
+        "question": "Học viện Ảnh hưởng Tốt đẹp là chương trình gì?",
+        "answer": "Học viện Ảnh hưởng Tốt đẹp là chương trình tập trung thực hành giúp doanh nhân bắt đầu kinh doanh đúng cách và đạt quỹ đạo an toàn với tốc độ thực tế. Chúng tôi chia sẻ những lo ngại, xung đột và lý do thực tế từ thực địa, và cùng tìm giải pháp mà mỗi người có thể chịu trách nhiệm."
+      },
+      "2": {
+        "question": "Làm thế nào để tham gia?",
+        "answer": "Nếu bạn quan tâm đến các chương trình của CPEE, vui lòng liên hệ qua email contact@cpee.org. Bạn có thể tham gia qua nội dung thảo luận, hướng dẫn kinh doanh, Học viện Ảnh hưởng Tốt đẹp và nhiều hơn nữa."
+      }
+    }
   }
 }
