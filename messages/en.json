@@ -104,8 +104,8 @@
         "label": "Partner Organizations"
       },
       "years": {
-        "value": "5",
-        "suffix": "yrs",
+        "value": "1",
+        "suffix": "yr",
         "label": "Years of Experience"
       }
     }
