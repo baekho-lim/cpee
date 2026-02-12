@@ -4,7 +4,7 @@ import { useState, useCallback, type FormEvent } from "react";
 import { Dashboard } from "./components/Dashboard";
 
 const STORAGE_KEY = "cpee-admin-auth";
-const ADMIN_PASSWORD = "cpee2025!";
+const ADMIN_PASSWORD = "1234";
 
 export default function AdminPage() {
   const [isAuthenticated, setIsAuthenticated] = useState(() => {
