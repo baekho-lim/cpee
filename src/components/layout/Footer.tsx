@@ -1,7 +1,7 @@
 "use client";
 
 import { useTranslations } from "next-intl";
-import { Mail, Facebook, Heart, Globe } from "lucide-react";
+import { Mail, Facebook, Heart, MapPin } from "lucide-react";
 import { SITE_CONFIG, SOCIAL_LINKS } from "@/lib/constants";
 
 const NAV_ITEMS = ["about", "programs", "academy", "impact", "contact"] as const;
@@ -83,8 +83,8 @@ export function Footer() {
               </div>
             </div>
             <div className="mt-6 flex items-center justify-center gap-2 md:justify-start">
-              <Globe className="h-4 w-4 text-white/50" />
-              <span className="text-xs text-white/50">{t("area_served")}</span>
+              <MapPin className="h-4 w-4 text-white/50" />
+              <span className="text-xs text-white/50">{t("location")}</span>
             </div>
           </div>
         </div>
@@ -92,9 +92,8 @@ export function Footer() {
 
       {/* Bottom Bar */}
       <div className="border-t border-white/10">
-        <div className="mx-auto flex max-w-6xl flex-col items-center justify-between gap-2 px-6 py-6 text-xs text-white/40 md:flex-row">
+        <div className="mx-auto flex max-w-6xl items-center justify-center px-6 py-6 text-xs text-white/40">
           <p>{t("copyright", { year: String(year) })}</p>
-          <p>{t("area_served")}</p>
         </div>
       </div>
     </footer>

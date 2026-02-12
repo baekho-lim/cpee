@@ -2,8 +2,8 @@ export const SITE_CONFIG = Object.freeze({
   name: "CPEE",
   fullName: "Center for Practical Entrepreneurship Education",
   url: "https://cpee.vercel.app",
-  foundingDate: "2025",
-  email: "contact@cpee.org",
+  foundingDate: "2026",
+  email: "jinsookim0509@gmail.com",
   areaServed: ["KR", "VN"] as readonly string[],
   languages: ["ko", "en", "vi"] as readonly string[],
 });
