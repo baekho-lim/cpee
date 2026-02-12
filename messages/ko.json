@@ -102,7 +102,12 @@
   "footer": {
     "copyright": "© {year} CPEE. All rights reserved.",
     "org_name": "Center for Practical Entrepreneurship Education",
-    "nonprofit": "비영리 교육 공동체"
+    "nonprofit": "비영리 교육 공동체",
+    "tagline": "더 많은 창업가가 아니라, 더 책임 있는 창업가를 만듭니다",
+    "established": "설립 {year}",
+    "nav_title": "바로가기",
+    "contact_title": "연락처",
+    "area_served": "한국 · 베트남"
   },
   "faq": {
     "academy_name": "선한 영향력 아카데미",

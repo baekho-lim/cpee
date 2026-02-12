@@ -102,7 +102,12 @@
   "footer": {
     "copyright": "© {year} CPEE. All rights reserved.",
     "org_name": "Center for Practical Entrepreneurship Education",
-    "nonprofit": "Cộng đồng Giáo dục Phi lợi nhuận"
+    "nonprofit": "Cộng đồng Giáo dục Phi lợi nhuận",
+    "tagline": "Không phải nhiều doanh nhân hơn, mà là doanh nhân có trách nhiệm hơn",
+    "established": "Thành lập {year}",
+    "nav_title": "Liên kết nhanh",
+    "contact_title": "Liên hệ",
+    "area_served": "Hàn Quốc · Việt Nam"
   },
   "faq": {
     "academy_name": "Học viện Ảnh hưởng Tốt đẹp",
