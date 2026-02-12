@@ -94,12 +94,12 @@
         "label": "Người tham gia Hướng dẫn"
       },
       "programs": {
-        "value": "30",
+        "value": "10",
         "suffix": "+",
         "label": "Chương trình Đã thực hiện"
       },
       "partners": {
-        "value": "20",
+        "value": "5",
         "suffix": "+",
         "label": "Tổ chức Đối tác"
       },
