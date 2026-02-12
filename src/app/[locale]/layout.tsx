@@ -5,6 +5,7 @@ import { getTranslations } from "next-intl/server";
 import { notFound } from "next/navigation";
 import { Inter, Noto_Sans_KR } from "next/font/google";
 import { routing } from "@/i18n/routing";
+import { SITE_CONFIG } from "@/lib/constants";
 import "../globals.css";
 
 const inter = Inter({
@@ -36,13 +37,13 @@ export async function generateMetadata({
   const description = t("description");
 
   return {
-    metadataBase: new URL("https://cpee.vercel.app"),
+    metadataBase: new URL(SITE_CONFIG.url),
     title,
     description,
     openGraph: {
       title,
       description,
-      siteName: "CPEE",
+      siteName: SITE_CONFIG.name,
       locale: locale === "ko" ? "ko_KR" : locale === "vi" ? "vi_VN" : "en_US",
       type: "website",
     },

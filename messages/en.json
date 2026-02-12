@@ -88,33 +88,16 @@
     "title": "Impact We've Made Together",
     "subtitle": "Stories of people who joined CPEE",
     "stats": {
-      "mentees": {
-        "value": "150",
-        "suffix": "+",
-        "label": "Mentoring Participants"
-      },
-      "programs": {
-        "value": "10",
-        "suffix": "+",
-        "label": "Programs Delivered"
-      },
-      "partners": {
-        "value": "5",
-        "suffix": "+",
-        "label": "Partner Organizations"
-      },
-      "years": {
-        "value": "1",
-        "suffix": "yr",
-        "label": "Years of Experience"
-      }
+      "mentees": { "label": "Mentoring Participants" },
+      "programs": { "label": "Programs Delivered" },
+      "partners": { "label": "Partner Organizations" },
+      "years": { "suffix": "yr", "label": "Years of Experience" }
     }
   },
   "contact": {
     "title": "Let's Think Together",
     "subtitle": "Whether you're preparing to start a business or looking for a companion on a journey already begun, feel free to reach out anytime.",
-    "email_label": "Send us an email",
-    "email": "contact@cpee.org"
+    "email_label": "Send us an email"
   },
   "footer": {
     "copyright": "© {year} CPEE. All rights reserved.",

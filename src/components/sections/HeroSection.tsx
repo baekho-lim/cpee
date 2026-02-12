@@ -4,6 +4,7 @@ import { useTranslations } from "next-intl";
 import { Button } from "@/components/ui/Button";
 import { ChevronDown } from "lucide-react";
 import { motion } from "framer-motion";
+import { SOCIAL_LINKS } from "@/lib/constants";
 
 export function HeroSection() {
   const t = useTranslations("hero");
@@ -63,7 +64,7 @@ export function HeroSection() {
             {t("cta_programs")}
           </Button>
           <Button
-            href="https://www.facebook.com/groups/252991477087456"
+            href={SOCIAL_LINKS.facebook}
             variant="outline"
             className="border-white/30 text-white hover:bg-white hover:text-primary"
             target="_blank"

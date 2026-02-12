@@ -4,8 +4,7 @@ import { useTranslations } from "next-intl";
 import { SectionHeading } from "@/components/ui/SectionHeading";
 import { useCountUp } from "@/hooks/useCountUp";
 import { motion } from "framer-motion";
-
-const STAT_KEYS = ["mentees", "programs", "partners", "years"] as const;
+import { STATS, STAT_KEYS, type StatKey } from "@/lib/constants";
 
 function StatCounter({
   value,
@@ -58,8 +57,8 @@ export function ImpactSection() {
               className="rounded-2xl bg-white/10 backdrop-blur-sm p-6 md:p-8"
             >
               <StatCounter
-                value={parseInt(t(`stats.${key}.value`))}
-                suffix={t(`stats.${key}.suffix`)}
+                value={STATS[key].value}
+                suffix={STATS[key].suffix ?? t(`stats.${key}.suffix`)}
                 label={t(`stats.${key}.label`)}
               />
             </div>

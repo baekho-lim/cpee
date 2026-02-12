@@ -7,8 +7,7 @@ import { ProgramsSection } from "@/components/sections/ProgramsSection";
 import { AcademySection } from "@/components/sections/AcademySection";
 import { ImpactSection } from "@/components/sections/ImpactSection";
 import { ContactSection } from "@/components/sections/ContactSection";
-
-const BASE_URL = "https://cpee.vercel.app";
+import { SITE_CONFIG, SOCIAL_LINKS } from "@/lib/constants";
 
 async function JsonLd() {
   const locale = await getLocale();
@@ -18,16 +17,16 @@ async function JsonLd() {
   const organization = {
     "@context": "https://schema.org",
     "@type": "EducationalOrganization",
-    name: "CPEE",
-    alternateName: "Center for Practical Entrepreneurship Education",
-    url: BASE_URL,
-    logo: `${BASE_URL}/${locale}/opengraph-image`,
+    name: SITE_CONFIG.name,
+    alternateName: SITE_CONFIG.fullName,
+    url: SITE_CONFIG.url,
+    logo: `${SITE_CONFIG.url}/${locale}/opengraph-image`,
     description: t("description"),
-    foundingDate: "2025",
+    foundingDate: SITE_CONFIG.foundingDate,
     nonprofitStatus: "Nonprofit",
-    areaServed: ["KR", "VN"],
-    knowsLanguage: ["ko", "en", "vi"],
-    sameAs: ["https://www.facebook.com/groups/252991477087456"],
+    areaServed: SITE_CONFIG.areaServed,
+    knowsLanguage: SITE_CONFIG.languages,
+    sameAs: [SOCIAL_LINKS.facebook],
   };
 
   const course = {
@@ -37,11 +36,11 @@ async function JsonLd() {
     description: faq("academy_description"),
     provider: {
       "@type": "Organization",
-      name: "CPEE",
-      url: BASE_URL,
+      name: SITE_CONFIG.name,
+      url: SITE_CONFIG.url,
     },
     isAccessibleForFree: true,
-    inLanguage: ["ko", "en", "vi"],
+    inLanguage: SITE_CONFIG.languages,
   };
 
   const faqPage = {
@@ -64,8 +63,8 @@ async function JsonLd() {
       {
         "@type": "ListItem",
         position: 1,
-        name: "CPEE",
-        item: `${BASE_URL}/${locale}`,
+        name: SITE_CONFIG.name,
+        item: `${SITE_CONFIG.url}/${locale}`,
       },
     ],
   };

@@ -88,33 +88,16 @@
     "title": "함께 만든 변화",
     "subtitle": "CPEE와 함께한 사람들의 이야기",
     "stats": {
-      "mentees": {
-        "value": "150",
-        "suffix": "+",
-        "label": "멘토링 참여자"
-      },
-      "programs": {
-        "value": "10",
-        "suffix": "+",
-        "label": "프로그램 운영"
-      },
-      "partners": {
-        "value": "5",
-        "suffix": "+",
-        "label": "협력 기관"
-      },
-      "years": {
-        "value": "1",
-        "suffix": "년",
-        "label": "교육 경험"
-      }
+      "mentees": { "label": "멘토링 참여자" },
+      "programs": { "label": "프로그램 운영" },
+      "partners": { "label": "협력 기관" },
+      "years": { "suffix": "년", "label": "교육 경험" }
     }
   },
   "contact": {
     "title": "함께 고민하고 싶다면",
     "subtitle": "창업을 준비하고 있거나, 이미 시작한 여정 속에서 함께할 동반자를 찾고 있다면 언제든 연락해 주세요.",
-    "email_label": "이메일로 문의하기",
-    "email": "contact@cpee.org"
+    "email_label": "이메일로 문의하기"
   },
   "footer": {
     "copyright": "© {year} CPEE. All rights reserved.",

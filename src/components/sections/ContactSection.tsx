@@ -4,6 +4,7 @@ import { useTranslations } from "next-intl";
 import { Button } from "@/components/ui/Button";
 import { Mail } from "lucide-react";
 import { motion } from "framer-motion";
+import { SOCIAL_LINKS } from "@/lib/constants";
 
 export function ContactSection() {
   const t = useTranslations("contact");
@@ -27,7 +28,7 @@ export function ContactSection() {
 
           <div className="mt-12">
             <Button
-              href="https://www.facebook.com/groups/252991477087456"
+              href={SOCIAL_LINKS.facebook}
               variant="primary"
               className="text-lg px-10 py-4"
               target="_blank"

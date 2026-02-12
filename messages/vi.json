@@ -88,33 +88,16 @@
     "title": "Tác động Chúng tôi Đã Tạo ra",
     "subtitle": "Câu chuyện của những người đã đồng hành cùng CPEE",
     "stats": {
-      "mentees": {
-        "value": "150",
-        "suffix": "+",
-        "label": "Người tham gia Hướng dẫn"
-      },
-      "programs": {
-        "value": "10",
-        "suffix": "+",
-        "label": "Chương trình Đã thực hiện"
-      },
-      "partners": {
-        "value": "5",
-        "suffix": "+",
-        "label": "Tổ chức Đối tác"
-      },
-      "years": {
-        "value": "1",
-        "suffix": " năm",
-        "label": "Kinh nghiệm Giáo dục"
-      }
+      "mentees": { "label": "Người tham gia Hướng dẫn" },
+      "programs": { "label": "Chương trình Đã thực hiện" },
+      "partners": { "label": "Tổ chức Đối tác" },
+      "years": { "suffix": " năm", "label": "Kinh nghiệm Giáo dục" }
     }
   },
   "contact": {
     "title": "Hãy cùng Suy nghĩ",
     "subtitle": "Dù bạn đang chuẩn bị khởi nghiệp hay đang tìm người đồng hành trong hành trình đã bắt đầu, hãy liên hệ với chúng tôi bất cứ lúc nào.",
-    "email_label": "Gửi email cho chúng tôi",
-    "email": "contact@cpee.org"
+    "email_label": "Gửi email cho chúng tôi"
   },
   "footer": {
     "copyright": "© {year} CPEE. All rights reserved.",
